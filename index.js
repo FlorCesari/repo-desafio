@@ -4,3 +4,7 @@ const ShuffledArr=_.shuffle(arr)
 console.log(ShuffledArr)
 console.log("otro cambio");
 console.log ("cambio numero dos");
+function main(){
+    console.log("un cambio");
+}
+main();
